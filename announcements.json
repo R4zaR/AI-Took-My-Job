@@ -1,1 +1,11 @@
-
+{
+  "announcements": [
+    {
+      "id": "2026-09-leaderboards",
+      "emoji": "🏅",
+      "title": "Leaderboards are here!",
+      "body": "Beat the gauntlet and your high score now climbs a global leaderboard.\n\nThink you can reach the top? Tap 🏅 Leaderboard on the menu.",
+      "minVersion": "1.5"
+    }
+  ]
+}
